@@ -1,5 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# Setup + tải + chạy script xworld.py trên Termux
 
 set -e
 
